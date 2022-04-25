@@ -1,0 +1,26 @@
+{
+  "name": "xcli",
+  "version": "1.0.0",
+  "description": "command line utility for framework x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graymatterf0rge/x-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "ub3rb3457",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/graymatterf0rge/x-cli/issues"
+  },
+  "homepage": "https://github.com/graymatterf0rge/x-cli#readme",
+  "dependencies": {
+    "commander": "^9.2.0",
+    "lodash": "^4.17.21"
+  }
+}
